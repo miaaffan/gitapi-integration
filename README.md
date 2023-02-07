@@ -1,5 +1,5 @@
 # git-integration
-A basic Java project for talking to Git API and interacting with projects.
+SpringBoot project which integrating Git API
 
 #How to run this project
 
